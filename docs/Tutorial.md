@@ -55,7 +55,7 @@ Este tutorial tem como objetivo ensinar, passo a passo, como criar um aplicativo
    - **Linguagem:** Kotlin
    - **Minimum SDK:** API 24 ou superior
 
-📸 **Print sugerido:** Tela de criação do projeto  
+Tela de criação do projeto  
 Salvar como: `assets/passo1.png`
 
 ![Passo 1](assets/passo1.png)
@@ -88,8 +88,7 @@ O OSMDroid é a biblioteca responsável por:
 * Buscar os tiles (imagens do mapa)
 * Permitir interação com o mapa
 
-📸 **Print sugerido:** Dependência adicionada
-Salvar como: `assets/passo2.png`
+Dependência adicionada
 
 ![Passo 2](assets/passo2.png)
 
@@ -124,8 +123,7 @@ android:usesCleartextTraffic="true"
 * **COARSE_LOCATION** → localização aproximada (exigido pelo Android moderno)
 * **usesCleartextTraffic** → permite conexões HTTP usadas pelo OSMDroid
 
-📸 **Print sugerido:** Manifest configurado
-Salvar como: `assets/passo3.png`
+Manifest configurado
 
 ![Passo 3](assets/passo3.png)
 
@@ -175,8 +173,7 @@ Substitua o conteúdo por:
 * `Button` → aciona a busca
 * `MapView` → componente do mapa
 
-📸 **Print sugerido:** Layout no editor
-Salvar como: `assets/passo4.png`
+Layout no editor
 
 ![Passo 4](assets/passo4.png)
 
@@ -223,8 +220,7 @@ class MainActivity : AppCompatActivity() {
 }
 ```
 
-📸 **Print sugerido:** App rodando com mapa
-Salvar como: `assets/passo5.png`
+App rodando com mapa
 
 ![Passo 5](assets/passo5.png)
 
@@ -281,8 +277,7 @@ btnBuscar.setOnClickListener {
 * `GeoPoint` → representa latitude/longitude
 * `Marker` → adiciona um ponto no mapa
 
-📸 **Print sugerido:** Busca funcionando
-Salvar como: `assets/passo6.png`
+Busca funcionando
 
 ![Passo 6](assets/passo6.png)
 
@@ -297,8 +292,7 @@ O aplicativo agora permite:
 * Centralizar o mapa
 * Adicionar um marcador
 
-📸 **Print sugerido:** Resultado final
-Salvar como: `assets/passo7.png`
+Resultado final
 
 ![Passo 7](assets/passo7.png)
 
