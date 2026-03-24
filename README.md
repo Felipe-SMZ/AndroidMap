@@ -118,7 +118,10 @@ O passo a passo detalhado de desenvolvimento está disponível em:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Felipe**
+**Felipe Shimizu**
+
+[![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.devfelipeshimizu.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipesshimizu)
 
 ---
 
@@ -126,6 +129,3 @@ Desenvolvido por **Felipe**
 
 Este projeto é apenas para fins educacionais.
 
-```
-
----
