@@ -1,12 +1,3 @@
-Perfeito — agora vamos transformar isso em um **README de nível profissional**, ideal para GitHub e portfólio 🚀
-
-Vou te entregar pronto pra copiar 👇
-
----
-
-# 📄 `README.md`
-
-```md
 # 📱 MapaApp - Android com OSMDroid
 
 Aplicativo Android desenvolvido em Kotlin que utiliza **OpenStreetMap (OSMDroid)** para exibir mapas, buscar endereços e adicionar marcadores.
