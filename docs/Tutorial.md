@@ -56,7 +56,6 @@ Este tutorial tem como objetivo ensinar, passo a passo, como criar um aplicativo
    - **Minimum SDK:** API 24 ou superior
 
 Tela de criação do projeto  
-Salvar como: `assets/passo1.png`
 
 ![Passo 1](assets/passo1.png)
 
